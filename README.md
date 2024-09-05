@@ -30,7 +30,7 @@ As a data scientist i am highly analytical professional who uses advanced statis
 
 ### Data Analyst
 -	Analyzed and interpreted complex datasets to identify trends and provide actionable insights that informed business strategies.
-- Developed and maintained dashboards using Tableau and Power BI to track key performance indicators (KPIs) and visualize data trends.
+- 	Developed and maintained dashboards using Tableau and Power BI to track key performance indicators (KPIs) and visualize data trends.
 -	Automated data collection and processing workflows using Python, reducing reporting time by 30%.
 -	Collaborated with cross-functional teams to understand business needs and deliver data-driven solutions.
 -	Conducted A/B testing to optimize marketing campaigns, leading to a 15% increase in conversion rates.
@@ -41,5 +41,5 @@ As a data scientist i am highly analytical professional who uses advanced statis
 ### Projects
 
 ### Sales Forecasting Model
-- Developed a machine learning model using Python to predict future sales based on historical data, achieving an accuracy rate of 85%.
+-  	Developed a machine learning model using Python to predict future sales based on historical data, achieving an accuracy rate of 85%.
 -	Visualized the model’s performance and forecast results using Tableau, enabling the sales team to make informed inventory decisions.
