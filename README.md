@@ -30,7 +30,7 @@ As a data scientist i am highly analytical professional who uses advanced statis
 
 ### Data Analyst
 -	Analyzed and interpreted complex datasets to identify trends and provide actionable insights that informed business strategies.
-- 	Developed and maintained dashboards using Tableau and Power BI to track key performance indicators (KPIs) and visualize data trends.
+-	Developed and maintained dashboards using Tableau and Power BI to track key performance indicators (KPIs) and visualize data trends.
 -	Automated data collection and processing workflows using Python, reducing reporting time by 30%.
 -	Collaborated with cross-functional teams to understand business needs and deliver data-driven solutions.
 -	Conducted A/B testing to optimize marketing campaigns, leading to a 15% increase in conversion rates.
