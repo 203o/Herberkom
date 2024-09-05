@@ -9,7 +9,7 @@ As a data scientist i am highly analytical professional who uses advanced statis
 -	Techniques for analyzing business processes and designing information systems.
 ### Software Development
 -	Software engineering principles, development methodologies (e.g., Agile), and coding practices.
- ### Web Development
+### Web Development
 -	Design and development of web applications, including front-end and back-end technologies.
 ### Certifications
 -	Quantitative Data analysis 
