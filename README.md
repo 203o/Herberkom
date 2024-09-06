@@ -5,21 +5,6 @@ As a data scientist i am highly analytical professional who uses advanced statis
 ### Education 
 -	Dip., ICT | Thika Technical Training Institute at Thika (_August 2022_)
 -	Cert., Data Science | Sonek Data School at Nairobi (_January 2023_)
-### Database Management Systems
--	Design, implementation, and management of databases, including SQL and NoSQL databases.
-  
-### Systems Analysis and Design
--	Techniques for analyzing business processes and designing information systems.
-  
-### Software Development
--	Software engineering principles, development methodologies (e.g., Agile), and coding practices.
-  
-### Web Development
--	Design and development of web applications, including front-end and back-end technologies.
-  
-### Certifications
--	Quantitative Data analysis 
--	Data Science 
 
 ### Technical Skills
 -	Data Analysis Tools: Python, SQL, Excel, STATA, SPSS
