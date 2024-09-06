@@ -8,7 +8,6 @@ As a data scientist i am highly analytical professional who uses advanced statis
 
 ### Technical Skills
 -	Data Analysis Tools: Python, SQL, Excel, STATA, SPSS
--	Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
 -	Machine Learning: Scikit-learn, TensorFlow
 -	Statistical Analysis: Regression, Hypothesis Testing, A/B Testing
 -	Other: Microsoft power apps
