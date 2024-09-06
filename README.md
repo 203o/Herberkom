@@ -3,6 +3,8 @@
 As a data scientist i am highly analytical professional who uses advanced statistical methods, machine learning, and data visualization techniques to extract meaningful insights from complex data sets. Skilled in programming, data modeling, and problem-solving, enabling me to uncover patterns, predict trends, and support data-driven decision-making across various industries. My work often involves cleaning and organizing data, building predictive models, and communicating findings to stakeholders to drive business strategies.
 
 ### Education 
+-	Dip., ICT | Thika Technical Training Institute at Thika (_August 2022_)
+-	Cert., Data Science | Sonek Data School at Nairobi (_January 2023_)
 ### Database Management Systems
 -	Design, implementation, and management of databases, including SQL and NoSQL databases.
   
