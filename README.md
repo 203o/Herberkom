@@ -26,7 +26,7 @@ As a data scientist i am highly analytical professional who uses advanced statis
 	
 ### Projects
 
-###Football Match Outcome Predictor
+### Football Match Outcome Predictor
 -   A machine learning project that predicts football match outcomes using historical and real-time data from the Football-Data API.
 -   The model uses Random Forest Classification with features such as head-to-head statistics, past match results, and team performance trends.
   
