@@ -26,6 +26,10 @@ As a data scientist i am highly analytical professional who uses advanced statis
 	
 ### Projects
 
+###Football Match Outcome Predictor
+-   A machine learning project that predicts football match outcomes using historical and real-time data from the Football-Data API.
+-   The model uses Random Forest Classification with features such as head-to-head statistics, past match results, and team performance trends.
+  
 ### Sales Forecasting Model
 -  	Developed a machine learning model using Python to predict future sales based on historical data, achieving an accuracy rate of 85%.
 -	Visualized the model’s performance and forecast results using Tableau, enabling the sales team to make informed inventory decisions.
